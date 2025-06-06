@@ -1,3 +1,31 @@
+# Ginger Science Sunscreen Project Admin.
+
+This project uses NFTs to collect, verify, validate and remarket data produced in response to the Ginger Science Sunscreen Study.
+
+Ginger.sol contains 3 functions that the administrative agent may call to update data from the study: 
+
+- joinStudy
+- review
+- survey
+
+Metadata tracks data submission, enabling provable verification, validation, and compliance of survey data without compromising privacy.
+
+The result is a block explorer that gives a clear view of project activity for transparency.
+
+# TODO:
+
+## 1. SPV (DAO) creation. Legal engineering for managing the operational entity + smart contracts
+
+## 2. create Data vendor contract
+
+### 3. Lootboxes for private delivery
+
+## 3. Integrate with mint-on-demand marketplace contract
+
+## 4. Create community rewards mechanism 
+
+## 5. Test ZKP for conditional reidentification of users for rewards 
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
