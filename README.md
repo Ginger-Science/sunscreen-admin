@@ -2,7 +2,9 @@
 
 This project uses NFTs to collect, verify, validate and remarket data produced in response to the Ginger Science Sunscreen Study.
 
-Ginger.sol contains 3 functions that the administrative agent may call to update data from the study: 
+It will be a tool operated by our Ginger Science BioAgent.
+
+Ginger.sol contains 3 functions that the BioAgent may call to update data from the study: 
 
 - joinStudy
 - review
